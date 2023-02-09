@@ -26,6 +26,8 @@ scripts {
 ```
 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2ILOT0)
+
 ## License
 
 MIT
